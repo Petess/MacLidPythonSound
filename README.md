@@ -13,4 +13,4 @@ pygame numpy sounddevice pybooklid
 
 ## Notes
 
-Claude AI was used to develop this with some documents. 
+Claude AI was used to develop this with some documentation. 
