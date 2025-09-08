@@ -5,6 +5,12 @@ It was inspired by this :
 
 https://news.ycombinator.com/item?id=45158968
 
+And the code here. 
+
+https://github.com/samhenrigold/LidAngleSensor
+
+This reads the sensors using the 'pybooklid' library and uses pygame to generate a tone and show instructions 
+
 ## Tested platforms
 
 This has been tested on a Macbook Air M4 
