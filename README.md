@@ -1,6 +1,9 @@
 # MacLidPythonSound
 This code generates a tone that changes with the angle of the Mac screen
 
+## Tested platforms
+
+This has been tested on a Macbook Air M4 
 
 The following needs to be installed via uv or pip :
 
