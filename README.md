@@ -1,5 +1,5 @@
 # MacLidPythonSound
-This code generates a tone that changes with the angle of the Mac screen
+This shows an image and generates a tone that changes with the angle of the Mac screen. 
 
 It was inspired by this : 
 
